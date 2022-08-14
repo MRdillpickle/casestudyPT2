@@ -1,0 +1,28 @@
+img{
+    border-radius: 20px;
+    padding: 10px;
+    background-color: whitesmoke;
+    width: 100%;
+}
+ul{
+    text-decoration: none;
+}
+.output_label{
+    color: aliceblue;
+    background-color: burlywood;
+    padding: 10px;
+}
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.anser{
+    margin-top: 20pc;
+    background-color: red;
+    padding: 30px;
+    border-radius: 10px;
+}
+span{
+    color: blue;
+    text-decoration: underline wavy;
+}
